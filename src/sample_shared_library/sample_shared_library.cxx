@@ -1,0 +1,1 @@
+#include "sample_shared_library.hxx"
